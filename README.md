@@ -2,6 +2,8 @@
 
 Flowly is a polished SaaS landing page for an AI workflow automation product, built as a portfolio project with Next.js 15, TypeScript, Tailwind CSS, Framer Motion, React Hook Form, and Zod.
 
+Live site: <https://flowly.amjadyahia.com/>
+
 ## Stack
 
 - Next.js 15 App Router
@@ -53,7 +55,9 @@ public/
 
 ## Deployment
 
-The app is ready to deploy on Vercel or any platform that supports Next.js.
+Deployed at: <https://flowly.amjadyahia.com/>
+
+The app is ready to deploy on Netlify or any platform that supports Next.js.
 
 ## Repository
 
